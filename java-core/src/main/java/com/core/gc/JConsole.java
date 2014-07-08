@@ -11,7 +11,7 @@ import java.util.ArrayList;
 import java.util.List;
 
 /**
- * 类JConsole.java的实现描述：TODO 类实现描述
+ * 类JConsole.java的实现描述：console
  * 
  * @author yuci.wyc 2014年6月23日 下午3:52:17
  */
